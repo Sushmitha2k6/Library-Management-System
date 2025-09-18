@@ -1,25 +1,27 @@
 # Library-Management-System
-# Reg No:
-# Name:
-# Date:
+# Reg No:212224230282
+# Name:SUSHMITHA S
+# Date:18-09-2025
 
 
 # AIM:
 To develop the Library Management System using Star UML
 
 # Problem Statement:
-1.Library Management System is required to replace the manual tracking of books, member records, and lending activities, which is prone to errors and inefficiency.
+1. Library Management System is required to replace the manual tracking of books, member records, and lending activities, which is prone to errors and inefficiency.
 
-2.Manual processes cause difficulties in managing book availability, overdue returns, and accurate record-keeping of issued and returned books.
+2. Manual processes cause difficulties in managing book availability, overdue returns, and accurate record-keeping of issued and returned books.
 
-3.Library users face challenges in searching for books, checking availability, and reserving or renewing books without visiting the library physically.
+3. Library users face challenges in searching for books, checking availability, and reserving or renewing books without visiting the library physically.
 
-4.Librarians need an automated system to catalog books, manage memberships, track loans, and send notifications for due dates and fines.
+4. Librarians need an automated system to catalog books, manage memberships, track loans, and send notifications for due dates and fines.
 
-5.The system should support quick check-in/check-out, fine calculation, and generate reports on inventory, borrowing trends, and user activity.
+5. The system should support quick check-in/check-out, fine calculation, and generate reports on inventory, borrowing trends, and user activity.
 
-6.It must provide secure role-based access for users and librarians, ensuring data integrity and protecting sensitive user information.
-UML DIAGRAMS
+6. It must provide secure role-based access for users and librarians, ensuring data integrity and protecting sensitive user information.
+
+# UML DIAGRAMS :
+___
 
 # USE CASE DIAGRAM
 
@@ -38,9 +40,11 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
+```USE CASE DIAGRAM```
 
 
 
+<img width="798" height="620" alt="USECASEMAIN" src="https://github.com/user-attachments/assets/88f56aa2-971c-4c58-a57b-ef91ae686bc8" />
 
 
 
@@ -58,6 +62,10 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+```CLASS DIAGRAM```
+
+
+<img width="878" height="535" alt="CLASS" src="https://github.com/user-attachments/assets/2d6af8c4-ea66-4243-8d00-69fc49a11f49" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -66,8 +74,10 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+```COMMUNICATION DIAGRAM```
 
 
+<img width="875" height="511" alt="COMM2" src="https://github.com/user-attachments/assets/c5d7c8bd-a570-4658-b4d3-905bafe6502e" />
 
 # PACKAGE DIAGRAM:
 
@@ -77,9 +87,10 @@ organization of the layered architecture within any UML classifier, such as a so
 
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
+```PACKAGE DIAGRAM```
 
 
-
+<img width="429" height="369" alt="package (1)" src="https://github.com/user-attachments/assets/072bbc71-1bbb-4777-a8a4-756cda52e352" />
 
 
 
@@ -96,8 +107,10 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
+```ACTIVITY DIAGRAM```
 
 
+<img width="799" height="616" alt="ACTIVITY" src="https://github.com/user-attachments/assets/c94ae0a8-58d7-4315-b7c4-d143c75917b1" />
 
 
 # SEQUENCE DIAGRAM
@@ -105,6 +118,10 @@ Describe the steps performed in a UML use case.
 A sequence diagram is a type of intera jon diagram because it describes how- and in what order a group of objects works together. These diagrams are used by software developers and business professionals to understand requirements for
 
 a new system or to document an existing process. Sequence diagrams are sometimes known as event diagrams or event scenarios.
+
+```SEQUENCE DIAGRAM```
+
+<img width="792" height="612" alt="SEQ" src="https://github.com/user-attachments/assets/a584c286-bb45-41f1-a0f5-ae17bc4a1490" />
 
 
 # BENEFITS OF SEQUENCE DIAGRAM
